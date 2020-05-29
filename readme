@@ -1,0 +1,11 @@
+This repo contains the R code to craft data visualizations and
+the visualizations themselves. I used the Uber Dataset for pickups in
+New York City in 2014.
+(Available at: https://drive.google.com/file/d/1emopjfEkTt59jJoBH9L9bSdmlDC4AR87/view)
+I have come up with a variety of visualizations, based on bases throughout the city
+as designated by Uber, the number of trips, time, day, month, and pickup locations.
+
+
+
+Note: I have taken assistance from an external website, data flair training.
+Available at: https://data-flair.training/ 
